@@ -1,0 +1,2 @@
+# Get_Next_Line
+Atividade 42SP: Neste exercício os alunos tem que criar um programa que  consiga ler um arquivo e retorne a cada chamada da função a próxima linha inteira.  OBS: Este programa tem que ser com pilado de forma similar ao comando a seguir - "gcc -Wall -Wextra -Werror -D BUFFER_SIZE=XX get_next_line.c get_next_line.h get_next_line_utils.c maic.c". BUFFER_SIZE tem que receber um numero e ele representa a quantidade de caracteres que o programe consegue ler por vez.
